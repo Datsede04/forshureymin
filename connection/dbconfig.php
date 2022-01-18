@@ -28,10 +28,10 @@ class Database
     }
 }
 
-$db_host = "localhost";
-$db_name = "mydb";
-$db_user = "root";
-$db_pass = "";
+$db_host = "remotemysql.com";
+$db_name = "Eph2RPFR5M";
+$db_user = "Eph2RPFR5M";
+$db_pass = "F4s6Q1D7ZU";
 
 try{
 
